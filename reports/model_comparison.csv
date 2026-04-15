@@ -1,0 +1,5 @@
+model_name,test_mse,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown
+GradientBoosting,0.00075,0.085872,0.153382,0.55986,-0.174071
+RandomForest,0.000747,0.076214,0.152379,0.500162,-0.166761
+GradientBoostingTuned,0.000742,0.064793,0.145239,0.446115,-0.171613
+Ridge,0.000733,0.052134,0.149347,0.349078,-0.200111
