@@ -193,8 +193,16 @@ python -m portfolio_model_lab.models.train_model
 
 ## Final Note
 
-This project demonstrates a key principle in applied data science:
+This project demonstrates a key principle:
 
 > The best model is not the one with the lowest error — it is the one that improves the final decision outcome.
 
 In this case, evaluating models at the portfolio level revealed insights that would be missed using traditional ML metrics alone.
+
+## Development Notes
+
+Parts of the implementation and refactoring were completed with the assistance of AI tools (OpenAI Codex) to improve code quality and development efficiency.
+
+Project design, analytical approach, and validation of results were independently developed and reviewed by the author.
+
+Skills - [AGENTS.md](https://github.com/Eldor-Utabekov/portfolio-model-lab/blob/main/AGENTS.md)
